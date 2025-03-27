@@ -31,10 +31,10 @@
 }
 body{
     animation: transitionIn 0.75s;
-    background-color:#F4F2E9;
+    background-color:#D3EBEC;
 }
 .navbar{
-    background: #F4F2E9;
+    background: #D3EBEC;
     /* border-bottom: 2px solid #000000; */
     height: 50px;
     display: flex;
