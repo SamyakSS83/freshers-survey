@@ -1,0 +1,34 @@
+Q39: What are your opinions about hostel infrastructure? (day scholars can skip this question)
+
+Computer Science and Engineering : {'Livable - there are inconveniences and problems, but I’ll live': 21, 'Bad - I face multiple inconveniences every day, it’s annoying': 9, 'Excellent - I almost don’t want to go home': 1, 'Good - I seldom face any problems, it’s comfortable to live in': 6, 'Terrible - if I could help it i’d never step foot in my hostel': 7}
+
+Electrical Engineering : {'Livable - there are inconveniences and problems, but I’ll live': 39, 'Bad - I face multiple inconveniences every day, it’s annoying': 17, 'Terrible - if I could help it i’d never step foot in my hostel': 6, 'Good - I seldom face any problems, it’s comfortable to live in': 11}
+
+Mathematics : {'Terrible - if I could help it i’d never step foot in my hostel': 5, 'Livable - there are inconveniences and problems, but I’ll live': 26, 'Bad - I face multiple inconveniences every day, it’s annoying': 7, 'Good - I seldom face any problems, it’s comfortable to live in': 11}
+
+Production and Industrial Engineering : {'Terrible - if I could help it i’d never step foot in my hostel': 3, 'Livable - there are inconveniences and problems, but I’ll live': 10, 'Good - I seldom face any problems, it’s comfortable to live in': 5, 'Bad - I face multiple inconveniences every day, it’s annoying': 13}
+
+Civil Engineering : {'Livable - there are inconveniences and problems, but I’ll live': 21, 'Good - I seldom face any problems, it’s comfortable to live in': 8, 'Bad - I face multiple inconveniences every day, it’s annoying': 8, 'Terrible - if I could help it i’d never step foot in my hostel': 2}
+
+Mechanical Engineering : {'Terrible - if I could help it i’d never step foot in my hostel': 3, 'Good - I seldom face any problems, it’s comfortable to live in': 10, 'Livable - there are inconveniences and problems, but I’ll live': 20, 'Excellent - I almost don’t want to go home': 2, 'Bad - I face multiple inconveniences every day, it’s annoying': 7}
+
+Textile and Fibre Engineering : {'Terrible - if I could help it i’d never step foot in my hostel': 5, 'Good - I seldom face any problems, it’s comfortable to live in': 5, 'Livable - there are inconveniences and problems, but I’ll live': 13, 'Bad - I face multiple inconveniences every day, it’s annoying': 11}
+
+Applied Mechanics : {'Livable - there are inconveniences and problems, but I’ll live': 14, 'Good - I seldom face any problems, it’s comfortable to live in': 4, 'Bad - I face multiple inconveniences every day, it’s annoying': 4, 'Terrible - if I could help it i’d never step foot in my hostel': 4}
+
+Material Science and Engineering : {'Livable - there are inconveniences and problems, but I’ll live': 6, 'Bad - I face multiple inconveniences every day, it’s annoying': 3, 'Terrible - if I could help it i’d never step foot in my hostel': 4, 'Good - I seldom face any problems, it’s comfortable to live in': 4}
+
+Chemical Engineering : {'Livable - there are inconveniences and problems, but I’ll live': 17, 'Bad - I face multiple inconveniences every day, it’s annoying': 15, 'Terrible - if I could help it i’d never step foot in my hostel': 3, 'Good - I seldom face any problems, it’s comfortable to live in': 8, 'Excellent - I almost don’t want to go home': 1}
+
+Biochemical Engineering and Biotechnology : {'Bad - I face multiple inconveniences every day, it’s annoying': 6, 'Livable - there are inconveniences and problems, but I’ll live': 15, 'Good - I seldom face any problems, it’s comfortable to live in': 2, 'Terrible - if I could help it i’d never step foot in my hostel': 4}
+
+Physics : {'Livable - there are inconveniences and problems, but I’ll live': 14, 'Bad - I face multiple inconveniences every day, it’s annoying': 7, 'Good - I seldom face any problems, it’s comfortable to live in': 4, 'Terrible - if I could help it i’d never step foot in my hostel': 1, 'Excellent - I almost don’t want to go home': 1}
+
+Energy Science and Engineering : {'Good - I seldom face any problems, it’s comfortable to live in': 4, 'Livable - there are inconveniences and problems, but I’ll live': 4, 'Terrible - if I could help it i’d never step foot in my hostel': 2, 'Bad - I face multiple inconveniences every day, it’s annoying': 3}
+
+Design : {'Livable - there are inconveniences and problems, but I’ll live': 1, 'Bad - I face multiple inconveniences every day, it’s annoying': 1, 'Terrible - if I could help it i’d never step foot in my hostel': 1}
+
+Humanities and Social Studies : {'Livable - there are inconveniences and problems, but I’ll live': 2, 'Bad - I face multiple inconveniences every day, it’s annoying': 1}
+
+nan : {}
+

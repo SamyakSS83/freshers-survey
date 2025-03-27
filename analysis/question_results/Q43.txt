@@ -1,0 +1,34 @@
+Q43: Do you think there are enough hang-out spots on campus?
+
+Computer Science and Engineering : {'yes- every spot is a hangout spot :P': 20, 'no- can have more (current spots are overcrowded/not in the right places)': 13, 'maybe- the ones we have can be improved (timings/facilities)': 12}
+
+Electrical Engineering : {'no- can have more (current spots are overcrowded/not in the right places)': 31, 'maybe- the ones we have can be improved (timings/facilities)': 24, 'yes- every spot is a hangout spot :P': 20}
+
+Mathematics : {'no- can have more (current spots are overcrowded/not in the right places)': 22, 'yes- every spot is a hangout spot :P': 15, 'maybe- the ones we have can be improved (timings/facilities)': 15}
+
+Production and Industrial Engineering : {'yes- every spot is a hangout spot :P': 11, 'no- can have more (current spots are overcrowded/not in the right places)': 18, 'maybe- the ones we have can be improved (timings/facilities)': 3}
+
+Civil Engineering : {'yes- every spot is a hangout spot :P': 23, 'maybe- the ones we have can be improved (timings/facilities)': 8, 'no- can have more (current spots are overcrowded/not in the right places)': 10}
+
+Mechanical Engineering : {'no- can have more (current spots are overcrowded/not in the right places)': 17, 'yes- every spot is a hangout spot :P': 15, 'maybe- the ones we have can be improved (timings/facilities)': 11}
+
+Textile and Fibre Engineering : {'no- can have more (current spots are overcrowded/not in the right places)': 18, 'yes- every spot is a hangout spot :P': 10, 'maybe- the ones we have can be improved (timings/facilities)': 7}
+
+Applied Mechanics : {'no- can have more (current spots are overcrowded/not in the right places)': 10, 'maybe- the ones we have can be improved (timings/facilities)': 8, 'yes- every spot is a hangout spot :P': 8}
+
+Material Science and Engineering : {'maybe- the ones we have can be improved (timings/facilities)': 4, 'no- can have more (current spots are overcrowded/not in the right places)': 10, 'yes- every spot is a hangout spot :P': 3}
+
+Chemical Engineering : {'no- can have more (current spots are overcrowded/not in the right places)': 16, 'yes- every spot is a hangout spot :P': 19, 'maybe- the ones we have can be improved (timings/facilities)': 11}
+
+Biochemical Engineering and Biotechnology : {'yes- every spot is a hangout spot :P': 13, 'no- can have more (current spots are overcrowded/not in the right places)': 7, 'maybe- the ones we have can be improved (timings/facilities)': 7}
+
+Physics : {'no- can have more (current spots are overcrowded/not in the right places)': 8, 'yes- every spot is a hangout spot :P': 12, 'maybe- the ones we have can be improved (timings/facilities)': 7}
+
+Energy Science and Engineering : {'maybe- the ones we have can be improved (timings/facilities)': 2, 'yes- every spot is a hangout spot :P': 7, 'no- can have more (current spots are overcrowded/not in the right places)': 4}
+
+Design : {'yes- every spot is a hangout spot :P': 2, 'no- can have more (current spots are overcrowded/not in the right places)': 1}
+
+Humanities and Social Studies : {'yes- every spot is a hangout spot :P': 2, 'maybe- the ones we have can be improved (timings/facilities)': 1}
+
+nan : {}
+

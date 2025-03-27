@@ -1,0 +1,34 @@
+Q51: Has a senior ever approached you for giving poltu gyaan (political insights)?
+
+Computer Science and Engineering : {'once or twice': 12, 'never': 27, 'sometimes': 5}
+
+Electrical Engineering : {'frequently': 2, 'once or twice': 22, 'never': 41, 'sometimes': 10}
+
+Mathematics : {'never': 27, 'once or twice': 14, 'sometimes': 5, 'frequently': 2}
+
+Production and Industrial Engineering : {'never': 19, 'sometimes': 5, 'frequently': 1, 'once or twice': 5}
+
+Civil Engineering : {'once or twice': 11, 'never': 20, 'sometimes': 7, 'frequently': 1}
+
+Mechanical Engineering : {'once or twice': 7, 'never': 29, 'sometimes': 4, 'frequently': 1}
+
+Textile and Fibre Engineering : {'never': 19, 'once or twice': 8, 'frequently': 4, 'sometimes': 3}
+
+Applied Mechanics : {'never': 15, 'once or twice': 6, 'sometimes': 5}
+
+Material Science and Engineering : {'once or twice': 2, 'never': 10, 'frequently': 2, 'sometimes': 3}
+
+Chemical Engineering : {'never': 21, 'sometimes': 5, 'frequently': 1, 'once or twice': 17}
+
+Biochemical Engineering and Biotechnology : {'once or twice': 11, 'never': 13, 'frequently': 1, 'sometimes': 2}
+
+Physics : {'never': 17, 'once or twice': 6, 'sometimes': 2}
+
+Energy Science and Engineering : {'sometimes': 3, 'never': 7, 'once or twice': 2}
+
+Design : {'once or twice': 2, 'sometimes': 1}
+
+Humanities and Social Studies : {'sometimes': 1, 'never': 1, 'once or twice': 1}
+
+nan : {}
+

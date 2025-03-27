@@ -1,0 +1,34 @@
+Q14: What part of RDV excited you the most? 
+
+Computer Science and Engineering : {'DU folks': 1, 'Just the general vibe of it :)': 9, 'Pronites': 20, 'Competitive events': 6, 'The break from acads it offered': 5, 'Did not attend ': 1, 'Nothing about it excited me :/': 2, 'Talks ': 1}
+
+Electrical Engineering : {'Competitive events': 6, 'The break from acads it offered': 10, 'Pronites': 28, 'Just the general vibe of it :)': 12, 'Nothing about it excited me :/': 13, 'the food stalls!': 1, 'Talks by alumni like Mr Jayant Sinha and street plays, quiz events.': 1, 'DU folks': 2, 'Not attend RDV': 1, 'all': 1}
+
+Mathematics : {'Pronites': 20, 'The break from acads it offered': 8, 'Just the general vibe of it :)': 14, 'Nothing about it excited me :/': 6, "The nights after the fest was done for the day. Those nights I spent with my friends- I have a feeling I won't get them ever again ": 1, 'Competitive events': 2, 'the food stalls!': 1}
+
+Production and Industrial Engineering : {'Pronites': 11, 'The break from acads it offered': 9, 'Just the general vibe of it :)': 6, 'Chutiya fest': 1, 'Nothing about it excited me :/': 4, 'Competitive events': 1}
+
+Civil Engineering : {'Just the general vibe of it :)': 7, 'Pronites': 19, 'Nothing about it excited me :/': 4, 'Made friends ': 1, "The RDV was all about pronites the rest was nothing . I don't know where the funding of RDV has gone . Isn't there anyone who check all these stuff at prof level which are not engaged in this malpractice.Rest , The stalls and competition were really good . But I think the hype created by YouTube or Instagram about RDV is very high and ig the reality is something else .": 1, 'The break from acads it offered': 5, 'Kaualli and gajal': 1, 'Competitive events': 2, 'Goodies': 1}
+
+Mechanical Engineering : {'Pronites': 17, 'Competitive events': 3, 'FACC team head stuff was fun': 1, 'Just the general vibe of it :)': 8, 'Nothing about it excited me :/': 3, 'The break from acads it offered': 9, 'Meeting a whole new group of people who are now really good friends ': 1, 'DU folks': 1}
+
+Textile and Fibre Engineering : {'Nothing about it excited me :/': 11, 'DU folks': 1, 'Pronites': 14, 'Just the general vibe of it :)': 5, 'Marketing for the fest': 1, 'The break from acads it offered': 3}
+
+Applied Mechanics : {'The break from acads it offered': 5, 'Pronites': 13, 'Just the general vibe of it :)': 3, 'Competitive events': 1, 'Nothing about it excited me :/': 1, 'DU folks': 1, 'the food stalls!': 1, 'Pronites were therapeutic but also took part in an event, toh crazyyyyyyy': 1}
+
+Material Science and Engineering : {'Competitive events': 2, 'Just the general vibe of it :)': 3, 'Pronites': 6, 'DU folks': 2, 'the food stalls!': 1, 'Nothing about it excited me :/': 1, 'The break from acads it offered': 2}
+
+Chemical Engineering : {'DU folks': 3, 'The break from acads it offered': 8, 'Pronites': 19, 'Nothing about it excited me :/': 6, 'Just the general vibe of it :)': 3, 'Competitive events': 1, 'the food stalls!': 1, 'Winning free stuff at stalls was fun ': 1, 'Meri toh meri crush se baat start hui 🥰🥰': 1, 'The ANIME/COMIC/ Manga stall. COSPLAY was epic': 1, 'I liked working with responsibility I got': 1, 'Not present ': 1}
+
+Biochemical Engineering and Biotechnology : {'Just the general vibe of it :)': 7, 'The break from acads it offered': 6, 'Pronites': 11, 'DU folks': 1, 'Nothing about it excited me :/': 1, 'sneaking on stage during asees kaur and mun;) rest was boring': 1}
+
+Physics : {'Pronites': 9, 'Nothing about it excited me :/': 4, 'The break from acads it offered': 6, 'dancing with sweaty men in a tight group in nalanda, pronites normal , not studying for a week was fun  , du folks overrated asf , why do u even mention them like they something - most pretentious intolerrable gendwe ever ': 1, 'Competitive events': 2, 'Just the general vibe of it :)': 4, 'the food stalls!': 1}
+
+Energy Science and Engineering : {'Pronites': 9, 'Competitive events': 1, 'The break from acads it offered': 1, 'Nothing about it excited me :/': 1, 'Just the general vibe of it :)': 1}
+
+Design : {'Just the general vibe of it :)': 2, 'Pronites': 1}
+
+Humanities and Social Studies : {'Pronites': 1, 'Just the general vibe of it :)': 1, "Don't have seniors we are the first batch of our department ": 1}
+
+nan : {}
+

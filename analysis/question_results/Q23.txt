@@ -1,0 +1,34 @@
+Q23: How well are you able to manage your extra-curricular performance?
+
+Computer Science and Engineering : {'Could be better': 23, 'Just trying to cope': 9, 'Yeh bhi karna hota hai?': 9, 'I am productivity personified!': 4}
+
+Electrical Engineering : {'I am productivity personified!': 10, 'Could be better': 40, 'Just trying to cope': 14, 'Yeh bhi karna hota hai?': 11}
+
+Mathematics : {'Could be better': 26, 'Yeh bhi karna hota hai?': 13, 'Just trying to cope': 8, 'I am productivity personified!': 5}
+
+Production and Industrial Engineering : {'Could be better': 13, 'Yeh bhi karna hota hai?': 6, 'I am productivity personified!': 4, 'Just trying to cope': 9}
+
+Civil Engineering : {'Just trying to cope': 11, 'Could be better': 20, 'Yeh bhi karna hota hai?': 7, 'I am productivity personified!': 3}
+
+Mechanical Engineering : {'Just trying to cope': 12, 'Could be better': 21, 'I am productivity personified!': 1, 'Yeh bhi karna hota hai?': 9}
+
+Textile and Fibre Engineering : {'Could be better': 13, 'I am productivity personified!': 4, 'Just trying to cope': 9, 'Yeh bhi karna hota hai?': 9}
+
+Applied Mechanics : {'Could be better': 11, 'Yeh bhi karna hota hai?': 5, 'Just trying to cope': 8, 'I am productivity personified!': 2}
+
+Material Science and Engineering : {'Could be better': 8, 'Just trying to cope': 6, 'Yeh bhi karna hota hai?': 3}
+
+Chemical Engineering : {'Yeh bhi karna hota hai?': 6, 'Could be better': 23, 'I am productivity personified!': 3, 'Just trying to cope': 14}
+
+Biochemical Engineering and Biotechnology : {'I am productivity personified!': 6, 'Could be better': 7, 'Yeh bhi karna hota hai?': 7, 'Just trying to cope': 7}
+
+Physics : {'Yeh bhi karna hota hai?': 6, 'I am productivity personified!': 4, 'Could be better': 12, 'Just trying to cope': 5}
+
+Energy Science and Engineering : {'Could be better': 8, 'Yeh bhi karna hota hai?': 2, 'Just trying to cope': 3}
+
+Design : {'I am productivity personified!': 1, 'Just trying to cope': 2}
+
+Humanities and Social Studies : {'I am productivity personified!': 2, 'Yeh bhi karna hota hai?': 1}
+
+nan : {}
+

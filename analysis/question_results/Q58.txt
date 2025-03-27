@@ -1,0 +1,34 @@
+Q58: How often do you smoke or vape?
+
+Computer Science and Engineering : {'Never': 36}
+
+Electrical Engineering : {'Never': 60, 'Socially or at parties': 2}
+
+Mathematics : {'Never': 42, 'Tried it a couple of times': 1}
+
+Production and Industrial Engineering : {'Never': 27, 'Tried it a couple of times': 1, 'Socially or at parties': 1}
+
+Civil Engineering : {'Never': 34, 'Couple of times a days': 1, 'Socially or at parties': 1}
+
+Mechanical Engineering : {'Never': 34, 'Tried it a couple of times': 2, 'Couple of times a days': 1, 'Socially or at parties': 1}
+
+Textile and Fibre Engineering : {'Never': 30, 'Couple of times a days': 1, 'Tried it a couple of times': 1, '>5 times/day': 1}
+
+Applied Mechanics : {'Never': 21, 'Socially or at parties': 3}
+
+Material Science and Engineering : {'Never': 15, 'Tried it a couple of times': 1}
+
+Chemical Engineering : {'Never': 37, 'Tried it a couple of times': 3, 'Socially or at parties': 1}
+
+Biochemical Engineering and Biotechnology : {'Never': 22}
+
+Physics : {'Never': 20, '>5 times/day': 1, 'Tried it a couple of times': 1}
+
+Energy Science and Engineering : {'Never': 10}
+
+Design : {'Never': 2}
+
+Humanities and Social Studies : {'Tried it a couple of times': 1, 'Socially or at parties': 1}
+
+nan : {}
+

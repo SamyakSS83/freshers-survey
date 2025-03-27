@@ -1,0 +1,34 @@
+Q66: How often do you run to your home?
+
+Computer Science and Engineering : {"Mai sakht aadmi hoon / I'm a strong independant human:(Almost never)": 18, 'The pile of laundry triggers me:(Once a month)': 18, "Weekends means 'ghar ka khaana':(Every weekend)": 8, 'No motivaishan to stay on campus:(Every other day)': 1}
+
+Electrical Engineering : {'The pile of laundry triggers me:(Once a month)': 33, "Mai sakht aadmi hoon / I'm a strong independant human:(Almost never)": 29, "Weekends means 'ghar ka khaana':(Every weekend)": 12, "Mai yaha ka hoo hi nahi (I'm a day scholar)": 1}
+
+Mathematics : {"Mai sakht aadmi hoon / I'm a strong independant human:(Almost never)": 25, 'The pile of laundry triggers me:(Once a month)': 19, "Weekends means 'ghar ka khaana':(Every weekend)": 5, "Mai yaha ka hoo hi nahi (I'm a day scholar)": 3}
+
+Production and Industrial Engineering : {"Mai sakht aadmi hoon / I'm a strong independant human:(Almost never)": 16, 'The pile of laundry triggers me:(Once a month)': 12, "Weekends means 'ghar ka khaana':(Every weekend)": 4}
+
+Civil Engineering : {"Weekends means 'ghar ka khaana':(Every weekend)": 5, "Mai sakht aadmi hoon / I'm a strong independant human:(Almost never)": 20, 'The pile of laundry triggers me:(Once a month)': 15, "Mai yaha ka hoo hi nahi (I'm a day scholar)": 1}
+
+Mechanical Engineering : {'No motivaishan to stay on campus:(Every other day)': 2, 'The pile of laundry triggers me:(Once a month)': 10, "Mai sakht aadmi hoon / I'm a strong independant human:(Almost never)": 20, "Weekends means 'ghar ka khaana':(Every weekend)": 10, "Mai yaha ka hoo hi nahi (I'm a day scholar)": 1}
+
+Textile and Fibre Engineering : {"Mai sakht aadmi hoon / I'm a strong independant human:(Almost never)": 14, 'The pile of laundry triggers me:(Once a month)': 13, 'No motivaishan to stay on campus:(Every other day)': 5, "Weekends means 'ghar ka khaana':(Every weekend)": 2, "Mai yaha ka hoo hi nahi (I'm a day scholar)": 1}
+
+Applied Mechanics : {"Mai sakht aadmi hoon / I'm a strong independant human:(Almost never)": 12, 'The pile of laundry triggers me:(Once a month)': 11, "Weekends means 'ghar ka khaana':(Every weekend)": 3}
+
+Material Science and Engineering : {'The pile of laundry triggers me:(Once a month)': 7, 'No motivaishan to stay on campus:(Every other day)': 1, "Mai sakht aadmi hoon / I'm a strong independant human:(Almost never)": 9}
+
+Chemical Engineering : {"Weekends means 'ghar ka khaana':(Every weekend)": 6, "Mai sakht aadmi hoon / I'm a strong independant human:(Almost never)": 26, 'The pile of laundry triggers me:(Once a month)': 13, "Mai yaha ka hoo hi nahi (I'm a day scholar)": 1}
+
+Biochemical Engineering and Biotechnology : {"Mai sakht aadmi hoon / I'm a strong independant human:(Almost never)": 17, 'The pile of laundry triggers me:(Once a month)': 5, 'No motivaishan to stay on campus:(Every other day)': 1, "Weekends means 'ghar ka khaana':(Every weekend)": 4}
+
+Physics : {'The pile of laundry triggers me:(Once a month)': 8, "Weekends means 'ghar ka khaana':(Every weekend)": 2, "Mai sakht aadmi hoon / I'm a strong independant human:(Almost never)": 16, 'No motivaishan to stay on campus:(Every other day)': 1}
+
+Energy Science and Engineering : {'The pile of laundry triggers me:(Once a month)': 6, "Weekends means 'ghar ka khaana':(Every weekend)": 2, "Mai sakht aadmi hoon / I'm a strong independant human:(Almost never)": 5}
+
+Design : {"Mai sakht aadmi hoon / I'm a strong independant human:(Almost never)": 3}
+
+Humanities and Social Studies : {"Mai sakht aadmi hoon / I'm a strong independant human:(Almost never)": 2, 'No motivaishan to stay on campus:(Every other day)': 1}
+
+nan : {}
+

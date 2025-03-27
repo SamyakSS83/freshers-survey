@@ -1,0 +1,34 @@
+Q17: How early do you start preparing for exams?
+
+Computer Science and Engineering : {'The grind is forever': 1, 'a week or two': 16, 'The grind is forever!': 5, 'padhna bhi hota hai?': 3, 'a few days': 13, 'pull an all-nighter': 7}
+
+Electrical Engineering : {'a week or two': 23, 'pull an all-nighter': 12, 'a few days': 24, 'The grind is forever!': 11, 'padhna bhi hota hai?': 5}
+
+Mathematics : {'pull an all-nighter': 10, 'a few days': 14, 'a week or two': 17, 'padhna bhi hota hai?': 8, 'The grind is forever!': 3}
+
+Production and Industrial Engineering : {'The grind is forever!': 5, 'pull an all-nighter': 4, 'a few days': 16, 'a week or two': 6, 'padhna bhi hota hai?': 1}
+
+Civil Engineering : {'The grind is forever!': 6, 'a few days': 8, 'a week or two': 13, 'pull an all-nighter': 8, 'padhna bhi hota hai?': 6}
+
+Mechanical Engineering : {'The grind is forever!': 9, 'pull an all-nighter': 3, 'a week or two': 16, 'a few days': 13, 'padhna bhi hota hai?': 2}
+
+Textile and Fibre Engineering : {'The grind is forever!': 4, 'pull an all-nighter': 4, 'a few days': 12, 'a week or two': 11, 'padhna bhi hota hai?': 4}
+
+Applied Mechanics : {'a week or two': 8, 'The grind is forever!': 2, 'a few days': 4, 'pull an all-nighter': 7, 'padhna bhi hota hai?': 5}
+
+Material Science and Engineering : {'a few days': 6, 'a week or two': 3, 'pull an all-nighter': 3, 'padhna bhi hota hai?': 3, 'The grind is forever!': 2}
+
+Chemical Engineering : {'a week or two': 18, 'pull an all-nighter': 9, 'a few days': 14, 'padhna bhi hota hai?': 3, 'The grind is forever!': 2}
+
+Biochemical Engineering and Biotechnology : {'a few days': 6, 'a week or two': 10, 'pull an all-nighter': 3, 'padhna bhi hota hai?': 5, 'The grind is forever!': 3}
+
+Physics : {'The grind is forever!': 7, 'a week or two': 8, 'a few days': 5, 'pull an all-nighter': 5, 'padhna bhi hota hai?': 2}
+
+Energy Science and Engineering : {'padhna bhi hota hai?': 2, 'a few days': 3, 'pull an all-nighter': 4, 'a week or two': 3, 'The grind is forever!': 1}
+
+Design : {'padhna bhi hota hai?': 1, 'The grind is forever!': 2}
+
+Humanities and Social Studies : {'pull an all-nighter': 1, 'The grind is forever!': 2}
+
+nan : {}
+

@@ -1,0 +1,34 @@
+Q53: How often do you lie to your parents about it?
+
+Computer Science and Engineering : {'Never': 34, 'Often': 1, 'Sometimes': 4}
+
+Electrical Engineering : {'Never': 53, 'Often': 2, 'Always': 1, 'Sometimes': 4}
+
+Mathematics : {'Never': 30, 'Often': 4, 'Sometimes': 7, 'Always': 2}
+
+Production and Industrial Engineering : {'Never': 23, 'Often': 1, 'Sometimes': 7}
+
+Civil Engineering : {'Never': 24, 'Sometimes': 9, 'Often': 4}
+
+Mechanical Engineering : {'Never': 27, 'Always': 4, 'Sometimes': 5, 'Often': 2}
+
+Textile and Fibre Engineering : {'Never': 24, 'Always': 2, 'Often': 2, 'Sometimes': 6}
+
+Applied Mechanics : {'Never': 17, 'Often': 2, 'Always': 3, 'Sometimes': 2}
+
+Material Science and Engineering : {'Never': 11, 'Always': 1, 'Sometimes': 2, 'Often': 1}
+
+Chemical Engineering : {'Never': 32, 'Sometimes': 9, 'Often': 1}
+
+Biochemical Engineering and Biotechnology : {'Never': 19, 'Sometimes': 3, 'Always': 2}
+
+Physics : {'Never': 21, 'Always': 1, 'Sometimes': 1}
+
+Energy Science and Engineering : {'Sometimes': 1, 'Often': 2, 'Never': 8, 'Always': 1}
+
+Design : {'Never': 2}
+
+Humanities and Social Studies : {'Often': 1, 'Never': 2}
+
+nan : {}
+

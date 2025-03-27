@@ -1,0 +1,34 @@
+Q56: (If yes) How many dates do you go on every month on an average? 
+
+Computer Science and Engineering : {'Never': 29, 'quite often': 1, 'once a month': 3}
+
+Electrical Engineering : {'Never': 48, 'quite often': 2, 'Few times a month': 2}
+
+Mathematics : {'Never': 31, 'once a month': 2}
+
+Production and Industrial Engineering : {'Never': 27, 'once a month': 3}
+
+Civil Engineering : {'Never': 25, 'once a month': 1, 'Few times a month': 3}
+
+Mechanical Engineering : {'Never': 30, 'quite often': 1, 'once a month': 3}
+
+Textile and Fibre Engineering : {'Few times a month': 2, 'Never': 27, 'once a month': 1, 'quite often': 1}
+
+Applied Mechanics : {'Never': 20, 'Few times a month': 1, 'once a month': 1}
+
+Material Science and Engineering : {'once a month': 5, 'Never': 9}
+
+Chemical Engineering : {'Never': 32, 'once a month': 4}
+
+Biochemical Engineering and Biotechnology : {'Never': 19, 'quite often': 1}
+
+Physics : {'Never': 21}
+
+Energy Science and Engineering : {'once a month': 1, 'Never': 8}
+
+Design : {'once a month': 1, 'Never': 1}
+
+Humanities and Social Studies : {'Never': 2}
+
+nan : {}
+

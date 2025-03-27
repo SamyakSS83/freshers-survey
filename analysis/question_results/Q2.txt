@@ -1,0 +1,34 @@
+Q2: Kya aapki life IIT aane ke baad ‘chill’ hai?💃 (Has your life become 'chill' after coming to IIT?)
+
+Computer Science and Engineering : {'Mai is gambhir vishay pe chuppi saadhna chahunga': 12, 'No': 14, 'Yes': 19}
+
+Electrical Engineering : {'No': 33, 'Mai is gambhir vishay pe chuppi saadhna chahunga': 23, 'Yes': 19}
+
+Mathematics : {'Mai is gambhir vishay pe chuppi saadhna chahunga': 19, 'No': 17, 'Yes': 16}
+
+Production and Industrial Engineering : {'No': 21, 'Yes': 3, 'Mai is gambhir vishay pe chuppi saadhna chahunga': 8}
+
+Civil Engineering : {'Yes': 10, 'No': 14, 'Mai is gambhir vishay pe chuppi saadhna chahunga': 17}
+
+Mechanical Engineering : {'Mai is gambhir vishay pe chuppi saadhna chahunga': 11, 'Yes': 10, 'No': 22}
+
+Textile and Fibre Engineering : {'Mai is gambhir vishay pe chuppi saadhna chahunga': 13, 'No': 17, 'Yes': 5}
+
+Applied Mechanics : {'No': 14, 'Mai is gambhir vishay pe chuppi saadhna chahunga': 7, 'Yes': 5}
+
+Material Science and Engineering : {'Mai is gambhir vishay pe chuppi saadhna chahunga': 7, 'No': 9, 'Yes': 1}
+
+Chemical Engineering : {'No': 20, 'Yes': 7, 'Mai is gambhir vishay pe chuppi saadhna chahunga': 19}
+
+Biochemical Engineering and Biotechnology : {'Mai is gambhir vishay pe chuppi saadhna chahunga': 13, 'Yes': 6, 'No': 8}
+
+Physics : {'No': 13, 'Yes': 7, 'Mai is gambhir vishay pe chuppi saadhna chahunga': 7}
+
+Energy Science and Engineering : {'Mai is gambhir vishay pe chuppi saadhna chahunga': 5, 'Yes': 2, 'No': 6}
+
+Design : {'Yes': 1, 'Mai is gambhir vishay pe chuppi saadhna chahunga': 1, 'No': 1}
+
+Humanities and Social Studies : {'Mai is gambhir vishay pe chuppi saadhna chahunga': 2, 'No': 1}
+
+nan : {}
+

@@ -1,0 +1,34 @@
+Q64: What's your gender?
+
+Computer Science and Engineering : {'Male': 33, 'Female': 12}
+
+Electrical Engineering : {'Male': 61, 'Female': 14}
+
+Mathematics : {'Male': 38, 'Female': 13, ' handbag': 1}
+
+Production and Industrial Engineering : {'Male': 27, 'Female': 5}
+
+Civil Engineering : {'Male': 33, 'Female': 8}
+
+Mechanical Engineering : {'Male': 32, 'Female': 10, 'Non-binary': 1}
+
+Textile and Fibre Engineering : {'Male': 30, 'Female': 5}
+
+Applied Mechanics : {'Female': 5, 'Male': 20, 'Helicopter ': 1}
+
+Material Science and Engineering : {'Male': 12, 'Female': 5}
+
+Chemical Engineering : {'Male': 34, 'Female': 12}
+
+Biochemical Engineering and Biotechnology : {'Male': 22, 'Non-binary': 1, 'Female': 4}
+
+Physics : {'Male': 22, 'Female': 5}
+
+Energy Science and Engineering : {'Male': 11, 'Female': 2}
+
+Design : {'Male': 1, 'Female': 2}
+
+Humanities and Social Studies : {'Non-binary': 1, 'Female': 2}
+
+nan : {}
+

@@ -1,0 +1,34 @@
+Q27: On a scale of 1-5, how big is your friend group? 
+
+Computer Science and Engineering : {'1.0': 5, '4.0': 13, '2.0': 11, '3.0': 14, '5.0': 2}
+
+Electrical Engineering : {'1.0': 5, '3.0': 28, '4.0': 19, '2.0': 14, '5.0': 9}
+
+Mathematics : {'3.0': 21, '2.0': 10, '5.0': 6, '4.0': 12, '1.0': 3}
+
+Production and Industrial Engineering : {'3.0': 15, '2.0': 4, '5.0': 3, '4.0': 3, '1.0': 7}
+
+Civil Engineering : {'4.0': 10, '2.0': 8, '5.0': 6, '3.0': 16, '1.0': 1}
+
+Mechanical Engineering : {'3.0': 22, '4.0': 7, '2.0': 8, '5.0': 2, '1.0': 4}
+
+Textile and Fibre Engineering : {'2.0': 9, '3.0': 14, '4.0': 6, '5.0': 4, '1.0': 2}
+
+Applied Mechanics : {'2.0': 6, '3.0': 9, '1.0': 5, '4.0': 6}
+
+Material Science and Engineering : {'3.0': 5, '5.0': 2, '1.0': 3, '2.0': 5, '4.0': 2}
+
+Chemical Engineering : {'1.0': 5, '5.0': 5, '3.0': 21, '4.0': 4, '2.0': 11}
+
+Biochemical Engineering and Biotechnology : {'3.0': 13, '4.0': 2, '2.0': 6, '5.0': 5, '1.0': 1}
+
+Physics : {'1.0': 3, '3.0': 9, '4.0': 7, '5.0': 2, '2.0': 6}
+
+Energy Science and Engineering : {'4.0': 6, '5.0': 3, '2.0': 3, '3.0': 1}
+
+Design : {'4.0': 1, '2.0': 1, '3.0': 1}
+
+Humanities and Social Studies : {'3.0': 2, '1.0': 1}
+
+nan : {}
+

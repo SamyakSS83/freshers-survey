@@ -1,0 +1,34 @@
+Q59: How often do you consume alcohol?
+
+Computer Science and Engineering : {'Never': 35, 'once a month': 1}
+
+Electrical Engineering : {'Never': 58, 'Socially or at parties': 1, 'few times a month': 2, 'tried it once': 1}
+
+Mathematics : {'Never': 37, 'tried it once': 5, 'once a month': 1}
+
+Production and Industrial Engineering : {'Never': 28, 'once a month': 1, 'Socially or at parties': 1}
+
+Civil Engineering : {'Never': 33, 'once a month': 1, 'Socially or at parties': 1}
+
+Mechanical Engineering : {'Never': 32, 'tried it once': 2, 'Socially or at parties': 3, 'once a month': 1}
+
+Textile and Fibre Engineering : {'Never': 30, 'once a month': 1, 'quite often': 1}
+
+Applied Mechanics : {'Never': 21, 'tried it once': 2, 'quite often': 1}
+
+Material Science and Engineering : {'Socially or at parties': 2, 'Never': 10, 'tried it once': 3}
+
+Chemical Engineering : {'Never': 33, 'tried it once': 2, 'Socially or at parties': 6}
+
+Biochemical Engineering and Biotechnology : {'Never': 21, 'once a month': 1, 'Socially or at parties': 1}
+
+Physics : {'Never': 18, 'Socially or at parties': 1, 'tried it once': 1, 'quite often': 1, 'once a month': 1}
+
+Energy Science and Engineering : {'Never': 7, 'Socially or at parties': 2, 'once a month': 2}
+
+Design : {'Never': 2}
+
+Humanities and Social Studies : {'few times a month': 1, 'tried it once': 1}
+
+nan : {}
+

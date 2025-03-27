@@ -1,0 +1,34 @@
+Q46: How often do you eat in the night mess?
+
+Computer Science and Engineering : {'A few times a week': 20, 'Night mess is my sustenance': 8, 'Once in a while': 13, 'Never': 4}
+
+Electrical Engineering : {'A few times a week': 36, 'Once in a while': 20, 'Night mess is my sustenance': 11, 'Never': 5, 'Daily but due to my sleep scheduled. BTW i never skip dinner .': 1, 'before minors and majors everyday': 1, "Never (I'm a day scholar)": 1}
+
+Mathematics : {'Night mess is my sustenance': 9, 'A few times a week': 28, 'Once in a while': 11, 'Often ': 1, "Never (I'm a day scholar)": 2, 'Never': 1}
+
+Production and Industrial Engineering : {'Once in a while': 9, 'A few times a week': 14, 'Night mess is my sustenance': 8, 'once in a blue moon': 1}
+
+Civil Engineering : {'A few times a week': 17, 'Night mess is my sustenance': 14, 'Once in a while': 6, 'Only during exam season': 1, 'Three or four times': 1, 'Never': 1, "Never (I'm a day scholar)": 1}
+
+Mechanical Engineering : {'Once in a while': 11, 'Night mess is my sustenance': 9, 'Never': 2, 'A few times a week': 19, "Once a while. But I define a 'while' as almost 2 weeks": 1, "Never (I'm a day scholar)": 1}
+
+Textile and Fibre Engineering : {'Night mess is my sustenance': 9, 'A few times a week': 15, 'Never': 3, 'Once in a while': 6, 'Need to go to holistic cuz I am a strict vegetarian ,so maybe once in a month': 1, "Never (I'm a day scholar)": 1}
+
+Applied Mechanics : {'A few times a week': 14, 'Night mess is my sustenance': 8, 'Once in a while': 4}
+
+Material Science and Engineering : {'A few times a week': 8, 'Once in a while': 6, 'Night mess is my sustenance': 3}
+
+Chemical Engineering : {'Once in a while': 7, 'Night mess is my sustenance': 11, 'A few times a week': 26, "Never (I'm a day scholar)": 1, 'Never': 1}
+
+Biochemical Engineering and Biotechnology : {'A few times a week': 18, 'Night mess is my sustenance': 2, 'Once in a while': 7}
+
+Physics : {'Never': 2, 'Once in a while': 6, 'A few times a week': 15, 'Night mess is my sustenance': 3, "I skip mess and order takeout. Go to night mess if there are friends awake cause there's way too many dogs in campus ": 1}
+
+Energy Science and Engineering : {'Night mess is my sustenance': 2, 'Once in a while': 6, 'A few times a week': 5}
+
+Design : {'Once in a while': 2, 'A few times a week': 1}
+
+Humanities and Social Studies : {'A few times a week': 1, 'Once in a while': 1, 'Night mess is my sustenance': 1}
+
+nan : {}
+

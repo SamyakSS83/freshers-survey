@@ -1,0 +1,34 @@
+Q22: How well are you able to manage your academic performance? 
+
+Computer Science and Engineering : {'Just trying to cope': 8, 'Could be better': 29, 'I am productivity personified!': 4, 'Yeh bhi karna hota hai?': 4}
+
+Electrical Engineering : {'Could be better': 49, 'Just trying to cope': 15, 'I am productivity personified!': 6, 'Yeh bhi karna hota hai?': 5}
+
+Mathematics : {'Could be better': 28, 'I am productivity personified!': 4, 'Just trying to cope': 11, 'Yeh bhi karna hota hai?': 9}
+
+Production and Industrial Engineering : {'Could be better': 18, 'Yeh bhi karna hota hai?': 4, 'Just trying to cope': 10}
+
+Civil Engineering : {'Could be better': 16, 'Just trying to cope': 18, 'Yeh bhi karna hota hai?': 4, 'I am productivity personified!': 3}
+
+Mechanical Engineering : {'Just trying to cope': 23, 'Could be better': 18, 'Yeh bhi karna hota hai?': 1, 'I am productivity personified!': 1}
+
+Textile and Fibre Engineering : {'Could be better': 15, 'Just trying to cope': 16, 'I am productivity personified!': 1, 'Yeh bhi karna hota hai?': 3}
+
+Applied Mechanics : {'Could be better': 12, 'I am productivity personified!': 1, 'Just trying to cope': 8, 'Yeh bhi karna hota hai?': 5}
+
+Material Science and Engineering : {'Could be better': 7, 'Just trying to cope': 8, 'Yeh bhi karna hota hai?': 2}
+
+Chemical Engineering : {'Just trying to cope': 17, 'Could be better': 28, 'Yeh bhi karna hota hai?': 1}
+
+Biochemical Engineering and Biotechnology : {'Yeh bhi karna hota hai?': 4, 'Could be better': 14, 'Just trying to cope': 7, 'I am productivity personified!': 2}
+
+Physics : {'Just trying to cope': 12, 'Could be better': 14, 'Yeh bhi karna hota hai?': 1}
+
+Energy Science and Engineering : {'Just trying to cope': 3, 'Could be better': 7, 'Yeh bhi karna hota hai?': 3}
+
+Design : {'I am productivity personified!': 2, 'Could be better': 1}
+
+Humanities and Social Studies : {'Could be better': 2, 'Yeh bhi karna hota hai?': 1}
+
+nan : {}
+

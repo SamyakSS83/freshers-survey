@@ -1,0 +1,34 @@
+Q6: How often do you engage in conversations about scientific discoveries, innovations and industry landscapes with your peers? 
+
+Computer Science and Engineering : {'Daily': 6, 'monthly': 16, 'weekly': 14, "Mai toh bas placement lene aaya hoon (don't really care about it)": 9}
+
+Electrical Engineering : {'weekly': 23, 'Daily': 5, 'monthly': 24, "Mai toh bas placement lene aaya hoon (don't really care about it)": 23}
+
+Mathematics : {'weekly': 16, 'Daily': 4, 'monthly': 16, "Mai toh bas placement lene aaya hoon (don't really care about it)": 16}
+
+Production and Industrial Engineering : {'weekly': 14, "Mai toh bas placement lene aaya hoon (don't really care about it)": 6, 'monthly': 11, 'Daily': 1}
+
+Civil Engineering : {'weekly': 8, 'monthly': 20, "Mai toh bas placement lene aaya hoon (don't really care about it)": 11, 'Daily': 2}
+
+Mechanical Engineering : {'Daily': 4, 'weekly': 15, 'monthly': 13, "Mai toh bas placement lene aaya hoon (don't really care about it)": 11}
+
+Textile and Fibre Engineering : {'monthly': 13, 'weekly': 6, "Mai toh bas placement lene aaya hoon (don't really care about it)": 15, 'Daily': 1}
+
+Applied Mechanics : {'monthly': 11, "Mai toh bas placement lene aaya hoon (don't really care about it)": 9, 'weekly': 6}
+
+Material Science and Engineering : {'weekly': 4, 'Daily': 1, 'monthly': 6, "Mai toh bas placement lene aaya hoon (don't really care about it)": 6}
+
+Chemical Engineering : {'weekly': 15, "Mai toh bas placement lene aaya hoon (don't really care about it)": 12, 'monthly': 15, 'Daily': 4}
+
+Biochemical Engineering and Biotechnology : {'weekly': 11, 'monthly': 8, "Mai toh bas placement lene aaya hoon (don't really care about it)": 6, 'Daily': 2}
+
+Physics : {'monthly': 12, 'weekly': 9, 'Daily': 2, "Mai toh bas placement lene aaya hoon (don't really care about it)": 4}
+
+Energy Science and Engineering : {'weekly': 4, 'monthly': 6, 'Daily': 1, "Mai toh bas placement lene aaya hoon (don't really care about it)": 2}
+
+Design : {'weekly': 3}
+
+Humanities and Social Studies : {'weekly': 1, 'monthly': 1, "Mai toh bas placement lene aaya hoon (don't really care about it)": 1}
+
+nan : {}
+

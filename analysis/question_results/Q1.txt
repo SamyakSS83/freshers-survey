@@ -1,0 +1,34 @@
+Q1: Ever since entrance prep days, we all have held the IIT life in very high regard which was frequently validated by the coaching teachers, reels on Instagram etc. Now that you are an entire semester into life at IIT, how aptly has it lived up to your expectations? 
+
+Computer Science and Engineering : {'4.0': 18, '3.0': 13, '2.0': 6, '1.0': 2, '5.0': 6}
+
+Electrical Engineering : {'2.0': 11, '4.0': 28, '5.0': 7, '1.0': 3, '3.0': 26}
+
+Mathematics : {'2.0': 6, '1.0': 2, '4.0': 25, '5.0': 7, '3.0': 12}
+
+Production and Industrial Engineering : {'2.0': 7, '1.0': 3, '4.0': 8, '3.0': 12, '5.0': 2}
+
+Civil Engineering : {'5.0': 2, '4.0': 13, '3.0': 20, '2.0': 4, '1.0': 2}
+
+Mechanical Engineering : {'4.0': 15, '3.0': 15, '2.0': 5, '5.0': 7, '1.0': 1}
+
+Textile and Fibre Engineering : {'4.0': 9, '3.0': 14, '2.0': 7, '5.0': 3, '1.0': 2}
+
+Applied Mechanics : {'2.0': 4, '3.0': 7, '4.0': 9, '1.0': 4, '5.0': 2}
+
+Material Science and Engineering : {'4.0': 5, '2.0': 4, '3.0': 7, '5.0': 1}
+
+Chemical Engineering : {'3.0': 20, '4.0': 15, '5.0': 4, '2.0': 5, '1.0': 2}
+
+Biochemical Engineering and Biotechnology : {'4.0': 13, '3.0': 6, '5.0': 4, '2.0': 4}
+
+Physics : {'4.0': 12, '3.0': 7, '5.0': 4, '2.0': 3, '1.0': 1}
+
+Energy Science and Engineering : {'3.0': 5, '4.0': 6, '2.0': 2}
+
+Design : {'4.0': 2, '5.0': 1}
+
+Humanities and Social Studies : {'4.0': 2, '1.0': 1}
+
+nan : {}
+

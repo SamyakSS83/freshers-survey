@@ -1,0 +1,34 @@
+Q20: How confident are you about getting a DepC/ achieving branch change?
+
+Computer Science and Engineering : {'Humse na hoga!': 4, 'I feel content with my branch': 31, 'Will not even try for depC': 6, 'Hopeful': 2}
+
+Electrical Engineering : {'I am content with my branch': 1, 'Hopeful': 12, 'Humse na hoga!': 19, 'I feel content with my branch': 31, 'Will not even try for depC': 9, 'DepC to easy haiii': 1}
+
+Mathematics : {'Will not even try for depC': 11, 'I feel content with my branch': 25, 'Humse na hoga!': 12, 'Hopeful': 4}
+
+Production and Industrial Engineering : {'Hopeful': 7, 'Humse na hoga!': 19, 'I feel content with my branch': 3, 'Will not even try for depC': 3}
+
+Civil Engineering : {'Hopeful': 9, 'I feel content with my branch': 9, 'Humse na hoga!': 16, 'Will not even try for depC': 7}
+
+Mechanical Engineering : {'I feel content with my branch': 6, 'Hopeful': 11, 'Will not even try for depC': 9, 'DepC to easy haiii': 1, 'Humse na hoga!': 16}
+
+Textile and Fibre Engineering : {'Hopeful': 12, 'DepC to easy haiii': 1, 'Humse na hoga!': 16, 'I feel content with my branch': 3, 'Will not even try for depC': 3}
+
+Applied Mechanics : {'Hopeful': 8, 'Will not even try for depC': 2, 'Humse na hoga!': 7, 'I feel content with my branch': 9}
+
+Material Science and Engineering : {'I feel content with my branch': 3, 'Hopeful': 2, 'Humse na hoga!': 8, 'Will not even try for depC': 4}
+
+Chemical Engineering : {'Hopeful': 8, 'I feel content with my branch': 11, 'Humse na hoga!': 20, 'Will not even try for depC': 7}
+
+Biochemical Engineering and Biotechnology : {'I feel content with my branch': 5, 'Hopeful': 8, 'Will not even try for depC': 6, 'Humse na hoga!': 8}
+
+Physics : {'Humse na hoga!': 9, 'Hopeful': 8, 'I feel content with my branch': 7, 'Will not even try for depC': 2}
+
+Energy Science and Engineering : {'I feel content with my branch': 4, 'Humse na hoga!': 8, 'Hopeful': 1}
+
+Design : {'Hopeful': 1, 'I feel content with my branch': 2}
+
+Humanities and Social Studies : {}
+
+nan : {}
+

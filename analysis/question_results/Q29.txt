@@ -1,0 +1,34 @@
+Q29: How many people from your group do you secretly *dislike*? (haa but vo insaan accha hai)
+
+Computer Science and Engineering : {'3.0': 8, '2.0': 24, '4.0': 3, '1.0': 10}
+
+Electrical Engineering : {'2.0': 30, '1.0': 21, '3.0': 21, '4.0': 3}
+
+Mathematics : {'2.0': 20, '1.0': 15, '4.0': 6, '3.0': 11}
+
+Production and Industrial Engineering : {'1.0': 10, '2.0': 12, '4.0': 3, '3.0': 5, '5.0': 2}
+
+Civil Engineering : {'1.0': 12, '3.0': 12, '2.0': 14, '4.0': 3}
+
+Mechanical Engineering : {'4.0': 6, '1.0': 9, '3.0': 11, '5.0': 2, '2.0': 15}
+
+Textile and Fibre Engineering : {'4.0': 1, '5.0': 3, '2.0': 14, '1.0': 9, '3.0': 8}
+
+Applied Mechanics : {'5.0': 3, '2.0': 12, '4.0': 4, '1.0': 2, '3.0': 5}
+
+Material Science and Engineering : {'2.0': 3, '3.0': 7, '1.0': 6, '5.0': 1}
+
+Chemical Engineering : {'4.0': 4, '1.0': 10, '2.0': 27, '5.0': 2, '3.0': 3}
+
+Biochemical Engineering and Biotechnology : {'2.0': 9, '1.0': 8, '3.0': 9, '5.0': 1}
+
+Physics : {'4.0': 6, '2.0': 8, '3.0': 7, '1.0': 5, '5.0': 1}
+
+Energy Science and Engineering : {'2.0': 5, '1.0': 3, '3.0': 3, '4.0': 2}
+
+Design : {'3.0': 2, '2.0': 1}
+
+Humanities and Social Studies : {'2.0': 2, '1.0': 1}
+
+nan : {}
+

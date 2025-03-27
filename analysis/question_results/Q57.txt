@@ -1,0 +1,34 @@
+Q57: Which substances have you tried since coming to college?
+
+Computer Science and Engineering : {'Alcohol': 1, 'Non veg food :)': 11}
+
+Electrical Engineering : {'Non veg food :)': 23, 'Cigarettes': 1, 'Vape': 1, 'Alcohol': 1}
+
+Mathematics : {'Non veg food :)': 15, 'Alcohol': 2}
+
+Production and Industrial Engineering : {'Cigarettes': 2, 'Non veg food :)': 7, 'Marijuana': 1, 'Vape': 1}
+
+Civil Engineering : {'Cigarettes': 1, 'Non veg food :)': 9}
+
+Mechanical Engineering : {'Alcohol': 4, 'Non veg food :)': 13, 'Marijuana': 1, 'Cigarettes': 1}
+
+Textile and Fibre Engineering : {'Non veg food :)': 11, 'Marijuana': 1, 'Vape': 1, 'Alcohol': 1}
+
+Applied Mechanics : {'Non veg food :)': 9, 'Alcohol': 1}
+
+Material Science and Engineering : {'Non veg food :)': 4, 'Cigarettes': 1, 'Alcohol': 3, 'Marijuana': 1}
+
+Chemical Engineering : {'Non veg food :)': 8, 'Vape': 2, 'Alcohol': 5}
+
+Biochemical Engineering and Biotechnology : {'Non veg food :)': 12, 'Alcohol': 1}
+
+Physics : {'Non veg food :)': 8, 'Alcohol': 1, 'Cigarettes': 1}
+
+Energy Science and Engineering : {'Non veg food :)': 4, 'Alcohol': 1}
+
+Design : {'Non veg food :)': 1}
+
+Humanities and Social Studies : {'Vape': 1}
+
+nan : {}
+

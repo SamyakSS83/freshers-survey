@@ -1,0 +1,34 @@
+Q63: What was your medium of schooling?
+
+Computer Science and Engineering : {'English': 42, 'Regional Language/Your mother tongue': 3}
+
+Electrical Engineering : {'English': 71, 'Hindi': 2, 'Regional Language/Your mother tongue': 2}
+
+Mathematics : {'English': 50, 'Regional Language/Your mother tongue': 2}
+
+Production and Industrial Engineering : {'English': 31, 'Hindi': 1}
+
+Civil Engineering : {'English': 36, 'Hinglish': 1, 'Hindi': 3, 'Regional Language/Your mother tongue': 1}
+
+Mechanical Engineering : {'English': 38, 'Hindi': 3, 'Regional Language/Your mother tongue': 2}
+
+Textile and Fibre Engineering : {'English': 32, 'Hindi': 3}
+
+Applied Mechanics : {'English': 23, 'Hinglish ': 1, 'Hindi': 1, 'Regional Language/Your mother tongue': 1}
+
+Material Science and Engineering : {'English': 17}
+
+Chemical Engineering : {'English': 41, 'Regional Language/Your mother tongue': 3, 'naam ka english tja aait hindi he hai bas acche se ya shayad wo bhi nahi': 1, 'Hindi': 1}
+
+Biochemical Engineering and Biotechnology : {'English': 27}
+
+Physics : {'English': 24, 'Regional Language/Your mother tongue': 1, 'Hindi': 2}
+
+Energy Science and Engineering : {'English': 12, 'Hindi': 1}
+
+Design : {'English': 3}
+
+Humanities and Social Studies : {'English': 3}
+
+nan : {}
+

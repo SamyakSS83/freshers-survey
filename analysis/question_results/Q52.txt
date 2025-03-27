@@ -1,0 +1,34 @@
+Q52: On an average, how often do you go out for clubbing, night outs, or any other shenanigans?
+
+Computer Science and Engineering : {'Never': 37, 'About once a month': 3, 'Once a week': 1}
+
+Electrical Engineering : {'Never': 48, 'About once a month': 11, 'Once a week': 2}
+
+Mathematics : {'Never': 28, 'About once a month': 12, 'Once a week': 2}
+
+Production and Industrial Engineering : {'Never': 25, 'About once a month': 5, 'Once a week': 1}
+
+Civil Engineering : {'Never': 25, 'About once a month': 8, 'Once a week': 4}
+
+Mechanical Engineering : {'Never': 23, 'About once a month': 13, 'Once a week': 2}
+
+Textile and Fibre Engineering : {'Never': 22, 'Once a week': 4, 'About once a month': 9}
+
+Applied Mechanics : {'Never': 18, 'Once a week': 2, 'About once a month': 4}
+
+Material Science and Engineering : {'Never': 10, 'Once a week': 2, 'About once a month': 3}
+
+Chemical Engineering : {'Never': 26, 'About once a month': 15, 'Once a week': 3}
+
+Biochemical Engineering and Biotechnology : {'Never': 22, 'About once a month': 1, 'Once a week': 1}
+
+Physics : {'Never': 16, 'About once a month': 6, 'Once a week': 1}
+
+Energy Science and Engineering : {'About once a month': 5, 'Once a week': 2, 'Never': 5}
+
+Design : {'Never': 2}
+
+Humanities and Social Studies : {'Once a week': 1, 'Never': 2}
+
+nan : {}
+

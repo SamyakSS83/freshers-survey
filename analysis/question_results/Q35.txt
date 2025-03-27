@@ -1,0 +1,34 @@
+Q35: Have you ever given or been on the receiving end of a GPL?
+
+Computer Science and Engineering : {'Yes': 14, 'No': 30, 'Ye kya hota hai (idk what that is)': 1}
+
+Electrical Engineering : {'Yes': 36, 'No': 35, 'Ye kya hota hai (idk what that is)': 4}
+
+Mathematics : {'Yes': 26, 'No': 25, 'Ye kya hota hai (idk what that is)': 1}
+
+Production and Industrial Engineering : {'No': 14, 'Yes': 18}
+
+Civil Engineering : {'Yes': 22, 'No': 18, 'Ye kya hota hai (idk what that is)': 1}
+
+Mechanical Engineering : {'No': 18, 'Yes': 22, 'Ye kya hota hai (idk what that is)': 3}
+
+Textile and Fibre Engineering : {'Yes': 17, 'No': 16, 'Ye kya hota hai (idk what that is)': 2}
+
+Applied Mechanics : {'Yes': 16, 'No': 10}
+
+Material Science and Engineering : {'Yes': 12, 'No': 5}
+
+Chemical Engineering : {'No': 22, 'Yes': 24}
+
+Biochemical Engineering and Biotechnology : {'No': 8, 'Yes': 19}
+
+Physics : {'No': 18, 'Yes': 8, 'Ye kya hota hai (idk what that is)': 1}
+
+Energy Science and Engineering : {'Yes': 7, 'No': 6}
+
+Design : {'No': 3}
+
+Humanities and Social Studies : {'No': 2, 'Ye kya hota hai (idk what that is)': 1}
+
+nan : {}
+

@@ -1,0 +1,34 @@
+Q16: How are the professors in your courses?
+
+Computer Science and Engineering : {'humans': 13, 'devil reincarnated': 9, 'tolerable': 17, 'pookies/ kind-hearted humans': 6}
+
+Electrical Engineering : {'devil reincarnated': 9, 'humans': 24, 'tolerable': 27, 'pookies/ kind-hearted humans': 15}
+
+Mathematics : {'tolerable': 20, 'devil reincarnated': 7, 'pookies/ kind-hearted humans': 9, 'humans': 16}
+
+Production and Industrial Engineering : {'devil reincarnated': 9, 'tolerable': 13, 'humans': 7, 'pookies/ kind-hearted humans': 3}
+
+Civil Engineering : {'humans': 11, 'tolerable': 13, 'pookies/ kind-hearted humans': 11, 'devil reincarnated': 6}
+
+Mechanical Engineering : {'humans': 17, 'devil reincarnated': 5, 'tolerable': 13, 'pookies/ kind-hearted humans': 8}
+
+Textile and Fibre Engineering : {'tolerable': 11, 'devil reincarnated': 7, 'humans': 14, 'pookies/ kind-hearted humans': 3}
+
+Applied Mechanics : {'devil reincarnated': 7, 'tolerable': 6, 'humans': 11, 'pookies/ kind-hearted humans': 2}
+
+Material Science and Engineering : {'tolerable': 6, 'devil reincarnated': 2, 'humans': 7, 'pookies/ kind-hearted humans': 2}
+
+Chemical Engineering : {'tolerable': 11, 'pookies/ kind-hearted humans': 7, 'devil reincarnated': 11, 'humans': 17}
+
+Biochemical Engineering and Biotechnology : {'tolerable': 12, 'humans': 8, 'devil reincarnated': 4, 'pookies/ kind-hearted humans': 3}
+
+Physics : {'tolerable': 12, 'pookies/ kind-hearted humans': 6, 'humans': 7, 'devil reincarnated': 2}
+
+Energy Science and Engineering : {'humans': 7, 'devil reincarnated': 1, 'pookies/ kind-hearted humans': 2, 'tolerable': 3}
+
+Design : {'tolerable': 1, 'pookies/ kind-hearted humans': 2}
+
+Humanities and Social Studies : {'pookies/ kind-hearted humans': 2, 'tolerable': 1}
+
+nan : {}
+

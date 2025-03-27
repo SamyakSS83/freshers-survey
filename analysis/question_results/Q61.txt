@@ -1,0 +1,34 @@
+Q61: Which state/UT are you from?
+
+Computer Science and Engineering : {'Maharashtra': 5, 'Harayana': 5, 'Uttar Pradesh': 6, 'West Bengal': 1, 'Rajasthan': 5, 'Karnataka': 4, 'Delhi': 7, 'Madhya Pradesh': 3, 'Punjab': 1, 'Tamil Nadu': 1, 'Gujarat': 5, 'Bihar': 1, 'Telangana': 1}
+
+Electrical Engineering : {'Rajasthan': 12, 'Chattisgarh': 1, 'Delhi': 17, 'Harayana': 3, 'West Bengal': 2, 'Madhya Pradesh': 6, 'Tamil Nadu': 2, 'Uttar Pradesh': 13, 'Punjab': 3, 'Bihar': 2, 'Karnataka': 1, 'Maharashtra': 4, 'Andhra Pradesh': 1, 'Odisha': 2, 'Chandigarh': 1, 'Telangana': 2, 'Gujarat': 1, 'Jharkhand': 2}
+
+Mathematics : {'Maharashtra': 4, 'West Bengal': 2, 'Rajasthan': 3, 'Delhi': 7, 'Harayana': 12, 'Madhya Pradesh': 3, 'Karnataka': 3, 'Uttar Pradesh': 6, 'Telangana': 3, 'Uttarakhand': 1, 'Kerala': 1, 'Bihar': 1, 'Punjab': 3, 'Chandigarh': 1, 'Jharkhand': 1, 'Gujarat': 1}
+
+Production and Industrial Engineering : {'Uttar Pradesh': 7, 'Rajasthan': 5, 'Bihar': 4, 'Delhi': 4, 'Punjab': 1, 'Maharashtra': 2, 'Madhya Pradesh': 2, 'Jammu and Kashmir': 1, 'Gujarat': 1, 'Tamil Nadu': 1, 'Jharkhand': 1, 'Kerala': 1, 'Assam': 1, 'Harayana': 1}
+
+Civil Engineering : {'Odisha': 1, 'Bihar': 7, 'Punjab': 2, 'Uttar Pradesh': 7, 'Madhya Pradesh': 5, 'Jharkhand': 1, 'Uttarakhand': 1, 'Harayana': 4, 'Rajasthan': 7, 'Delhi': 3, 'Maharashtra': 2, 'Manipur': 1}
+
+Mechanical Engineering : {'Delhi': 10, 'Punjab': 2, 'Maharashtra': 4, 'Rajasthan': 10, 'Harayana': 4, 'Uttar Pradesh': 8, 'Madhya Pradesh': 1, 'Gujarat': 1, 'Bihar': 1, 'Assam': 1, 'Uttarakhand': 1}
+
+Textile and Fibre Engineering : {'Rajasthan': 5, 'West Bengal': 3, 'Madhya Pradesh': 2, 'Uttar Pradesh': 5, 'Harayana': 6, 'Punjab': 1, 'Maharashtra': 4, 'Bihar': 2, 'Gujarat': 1, 'Odisha': 1, 'Delhi': 3, 'Tamil Nadu': 2}
+
+Applied Mechanics : {'Rajasthan': 5, 'Maharashtra': 1, 'Gujarat': 1, 'Delhi': 5, 'Uttar Pradesh': 5, 'Bihar': 2, 'Madhya Pradesh': 1, 'Kerala': 2, 'Harayana': 2, 'Himachal Pradesh': 1, 'Uttarakhand': 1}
+
+Material Science and Engineering : {'Delhi': 3, 'Rajasthan': 3, 'Bihar': 2, 'Harayana': 2, 'Karnataka': 1, 'Madhya Pradesh': 1, 'Odisha': 1, 'Telangana': 1, 'Tripura': 1, 'Jharkhand': 1, 'Maharashtra': 1}
+
+Chemical Engineering : {'Harayana': 8, 'Rajasthan': 7, 'Delhi': 5, 'Kerala': 1, 'Bihar': 3, 'Chandigarh': 1, 'Uttar Pradesh': 10, 'Gujarat': 2, 'Odisha': 1, 'Jharkhand': 1, 'Assam': 1, 'West Bengal': 1, 'Uttarakhand': 1, 'Madhya Pradesh': 1, 'Punjab': 2, 'Maharashtra': 1}
+
+Biochemical Engineering and Biotechnology : {'Gujarat': 2, 'Uttar Pradesh': 5, 'Telangana': 1, 'Madhya Pradesh': 4, 'Delhi': 3, 'Bihar': 1, 'Rajasthan': 1, 'Maharashtra': 4, 'Jharkhand': 1, 'Harayana': 3, 'West Bengal': 2}
+
+Physics : {'Maharashtra': 5, 'Harayana': 3, 'Uttar Pradesh': 6, 'West Bengal': 2, 'Karnataka': 2, 'Bihar': 1, 'Rajasthan': 2, 'Tamil Nadu': 3, 'Himachal Pradesh': 1, 'Punjab': 1, 'Madhya Pradesh': 1}
+
+Energy Science and Engineering : {'Uttar Pradesh': 3, 'Harayana': 2, 'Delhi': 4, 'Rajasthan': 1, 'Maharashtra': 1, 'Odisha': 1, 'Bihar': 1}
+
+Design : {'Maharashtra': 3}
+
+Humanities and Social Studies : {'Karnataka': 1, 'West Bengal': 1, 'Uttar Pradesh': 1}
+
+nan : {}
+

@@ -1,0 +1,34 @@
+Q24: Have you been allotted a mentor?
+
+Computer Science and Engineering : {'Yes': 45}
+
+Electrical Engineering : {'Yes': 69, 'No': 2}
+
+Mathematics : {'Yes': 50, 'No': 1}
+
+Production and Industrial Engineering : {'Yes': 30, "It's complicated": 1}
+
+Civil Engineering : {'Yes': 40, 'No': 1}
+
+Mechanical Engineering : {'Yes': 41, "It's complicated": 2}
+
+Textile and Fibre Engineering : {'Yes': 34, "It's complicated": 1}
+
+Applied Mechanics : {'Yes': 23, "It's complicated": 3}
+
+Material Science and Engineering : {'Yes': 17}
+
+Chemical Engineering : {'Yes': 46}
+
+Biochemical Engineering and Biotechnology : {'Yes': 25, "It's complicated": 1}
+
+Physics : {'Yes': 25, 'No': 2}
+
+Energy Science and Engineering : {'Yes': 13}
+
+Design : {'Yes': 3}
+
+Humanities and Social Studies : {'No': 2}
+
+nan : {}
+

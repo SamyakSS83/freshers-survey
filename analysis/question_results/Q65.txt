@@ -1,0 +1,34 @@
+Q65: What's your sexuality?
+
+Computer Science and Engineering : {'Heterosexual': 35, 'Homosexual': 1, 'Bisexual / Pansexual': 1, 'Straight': 1}
+
+Electrical Engineering : {'Heterosexual': 58, 'Homosexual': 3, 'Still exploring': 4, '--': 1, 'Asexual': 1, 'matlab kya hai in sabka ': 1, 'Normal waala jo bhi h': 1}
+
+Mathematics : {'Heterosexual': 37, 'Still exploring': 4, 'Homosexual': 2, 'Lol': 1, 'Bisexual / Pansexual': 1}
+
+Production and Industrial Engineering : {'Heterosexual': 26, 'Homosexual': 1, 'Still exploring': 2}
+
+Civil Engineering : {'Heterosexual': 26, 'Asexual': 1, 'Homosexual': 2, "don't know the meaning ": 1, 'Would prefer not to specify but queer': 2}
+
+Mechanical Engineering : {'Heterosexual': 28, 'Asexual': 1, 'Bisexual / Pansexual': 2, 'Homosexual': 3, 'Still exploring': 1, 'aree yaar bio ni padhi thi jo inn naamko ka mtlb pata hoga. I am male and will marry a female. bas itna pta hai.': 1, "Doesn't understand ": 1}
+
+Textile and Fibre Engineering : {'Heterosexual': 21, 'Would prefer not to specify but queer': 3, 'Still exploring': 4, 'Asexual': 1, 'Bhai straight hu, homo aur hetro me difference nahi pata': 1, 'Itna nhi pata...mard hu aur straight hu': 1, 'Homosexual': 2}
+
+Applied Mechanics : {'Still exploring': 2, 'Heterosexual': 19, 'Homosexual': 2, 'Would prefer not to specify but queer': 1}
+
+Material Science and Engineering : {'Heterosexual': 13, 'Still exploring': 1, 'Bisexual / Pansexual': 1, 'Homosexual': 1, 'Male': 1}
+
+Chemical Engineering : {'Heterosexual': 34, 'Homosexual': 2, 'Asexual': 3}
+
+Biochemical Engineering and Biotechnology : {'Heterosexual': 23, 'Still exploring': 1}
+
+Physics : {'Heterosexual': 22, 'Homosexual': 2}
+
+Energy Science and Engineering : {'Heterosexual': 11}
+
+Design : {'Heterosexual': 2, 'Normal': 1}
+
+Humanities and Social Studies : {'Bisexual / Pansexual': 1, 'Heterosexual': 1}
+
+nan : {}
+
