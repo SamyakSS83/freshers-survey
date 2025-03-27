@@ -1,0 +1,8 @@
+Q59: How often do you consume alcohol?
+
+Never: 365
+Socially or at parties: 18
+tried it once: 17
+once a month: 10
+few times a month: 3
+quite often: 3

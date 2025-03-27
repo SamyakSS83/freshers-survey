@@ -1,0 +1,8 @@
+Q60: What percentage of people in your friend circle/ group do you think consume these substances?
+
+1.0: 166
+0.0: 147
+2.0: 59
+3.0: 29
+4.0: 11
+5.0: 6

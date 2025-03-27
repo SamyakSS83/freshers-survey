@@ -1,0 +1,7 @@
+Q42: How do you rate the washroom hygiene on campus?
+
+3.0: 178
+2.0: 135
+4.0: 77
+1.0: 73
+5.0: 22

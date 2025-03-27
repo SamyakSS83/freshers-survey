@@ -1,0 +1,4 @@
+Q30: Are you part of a friend group that you find toxic/unhealthy?
+
+no: 382
+yes: 103

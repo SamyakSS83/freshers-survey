@@ -1,0 +1,5 @@
+Q35: Have you ever given or been on the receiving end of a GPL?
+
+Yes: 241
+No: 230
+Ye kya hota hai (idk what that is): 14

@@ -1,0 +1,6 @@
+Q53: How often do you lie to your parents about it?
+
+Never: 327
+Sometimes: 60
+Often: 23
+Always: 17

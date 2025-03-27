@@ -1,0 +1,7 @@
+Q27: On a scale of 1-5, how big is your friend group? 
+
+3.0: 191
+2.0: 102
+4.0: 98
+5.0: 49
+1.0: 45

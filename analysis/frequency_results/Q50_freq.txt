@@ -1,0 +1,7 @@
+Q50: On a scale of 1-5 how involved do you think are your BRCA reps?
+
+4.0: 156
+3.0: 141
+5.0: 75
+1.0: 51
+2.0: 46

@@ -1,0 +1,12 @@
+Q67: On a scale of 1 to 5, where do you stand between being a social butterfly and a permanently hibernating polar bear?
+
+3.0: 95
+5.0: 69
+7.0: 57
+4.0: 57
+2.0: 51
+8.0: 44
+1.0: 43
+6.0: 34
+10.0: 19
+9.0: 16

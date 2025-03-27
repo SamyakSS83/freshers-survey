@@ -1,0 +1,6 @@
+Q56: (If yes) How many dates do you go on every month on an average? 
+
+Never: 329
+once a month: 25
+Few times a month: 8
+quite often: 6

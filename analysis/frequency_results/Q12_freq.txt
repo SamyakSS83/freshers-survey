@@ -1,0 +1,6 @@
+Q12: Did you attend RDV?
+
+Yes: 355
+Ho kar bhi nahi the (was working as team head): 61
+No, went home: 58
+No, was cooped up in my room: 11

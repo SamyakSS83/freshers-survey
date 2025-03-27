@@ -1,0 +1,6 @@
+Q16: How are the professors in your courses?
+
+tolerable: 166
+humans: 159
+pookies/ kind-hearted humans: 81
+devil reincarnated: 79

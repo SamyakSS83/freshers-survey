@@ -1,0 +1,7 @@
+Q13: If you attended the fest, did you like your first ever RDV?
+
+3.0: 143
+4.0: 104
+2.0: 84
+1.0: 67
+5.0: 46

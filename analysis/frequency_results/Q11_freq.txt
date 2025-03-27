@@ -1,0 +1,7 @@
+Q11: How much did you value your seniors' opinions while choosing IIT Delhi and your Branch? 
+
+4.0: 146
+3.0: 115
+1.0: 106
+5.0: 70
+2.0: 48

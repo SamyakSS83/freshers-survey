@@ -1,0 +1,7 @@
+Q47: From being a cleanliness freak to an average bachelor living alone, how clean is your room? 
+
+3.0: 140
+2.0: 113
+1.0: 91
+4.0: 90
+5.0: 40

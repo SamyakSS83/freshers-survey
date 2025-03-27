@@ -1,0 +1,7 @@
+Q48: On a scale of 1-5 how inclined are you to become a hostel rep?
+
+1.0: 130
+3.0: 121
+4.0: 79
+2.0: 72
+5.0: 67

@@ -1,0 +1,19 @@
+Department Counts:
+
+Electrical Engineering: 75
+Mathematics: 52
+Chemical Engineering: 46
+Computer Science and Engineering: 45
+Mechanical Engineering: 43
+Civil Engineering: 41
+Textile and Fibre Engineering: 35
+Production and Industrial Engineering: 32
+Biochemical Engineering and Biotechnology: 27
+Physics: 27
+Applied Mechanics: 26
+Material Science and Engineering: 17
+Energy Science and Engineering: 13
+Design: 3
+Humanities and Social Studies: 3
+
+Total respondents: 485

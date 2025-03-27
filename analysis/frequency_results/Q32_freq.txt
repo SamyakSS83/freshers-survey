@@ -1,0 +1,7 @@
+Q32: Do you see competition in your friend group? If yes, how healthy is it?
+
+4.0: 157
+5.0: 134
+3.0: 114
+2.0: 53
+1.0: 27

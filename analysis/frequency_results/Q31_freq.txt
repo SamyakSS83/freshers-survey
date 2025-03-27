@@ -1,0 +1,7 @@
+Q31: Do you feel a special connection with your hostelmates? (day scholars can skip this question)
+
+5.0: 139
+4.0: 136
+3.0: 95
+1.0: 52
+2.0: 51

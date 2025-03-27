@@ -1,0 +1,7 @@
+Q58: How often do you smoke or vape?
+
+Never: 390
+Tried it a couple of times: 11
+Socially or at parties: 10
+Couple of times a days: 3
+>5 times/day: 2

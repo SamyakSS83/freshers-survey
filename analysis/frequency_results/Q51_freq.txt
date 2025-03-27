@@ -1,0 +1,6 @@
+Q51: Has a senior ever approached you for giving poltu gyaan (political insights)?
+
+never: 266
+once or twice: 126
+sometimes: 61
+frequently: 15

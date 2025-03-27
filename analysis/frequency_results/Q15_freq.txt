@@ -1,0 +1,7 @@
+Q15: How optimistic are you regarding this semester’s CG?
+
+3.0: 131
+1.0: 127
+2.0: 89
+4.0: 86
+5.0: 52

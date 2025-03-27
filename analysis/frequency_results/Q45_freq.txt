@@ -1,0 +1,6 @@
+Q45: How many meals do you skip in the mess? (day scholars can miss this question)
+
+1.0: 251
+0.0: 99
+2.0: 94
+3.0: 30

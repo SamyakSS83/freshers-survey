@@ -1,0 +1,8 @@
+Q20: How confident are you about getting a DepC/ achieving branch change?
+
+Humse na hoga!: 162
+I feel content with my branch: 149
+Hopeful: 93
+Will not even try for depC: 69
+DepC to easy haiii: 3
+I am content with my branch: 1

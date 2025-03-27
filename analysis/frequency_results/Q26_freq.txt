@@ -1,0 +1,7 @@
+Q26: On a scale of 1-5, how helpful is your mentor?
+
+5.0: 168
+4.0: 134
+3.0: 89
+2.0: 49
+1.0: 30

@@ -1,0 +1,5 @@
+Q24: Have you been allotted a mentor?
+
+Yes: 461
+It's complicated: 8
+No: 8

@@ -1,0 +1,7 @@
+Q25: On a scale of 1 to 5, how machau do you think your mentor is?
+
+5.0: 171
+4.0: 165
+3.0: 74
+2.0: 33
+1.0: 27

@@ -1,0 +1,27 @@
+Q61: Which state/UT are you from?
+
+Uttar Pradesh: 82
+Delhi: 71
+Rajasthan: 66
+Harayana: 55
+Maharashtra: 41
+Madhya Pradesh: 30
+Bihar: 28
+Punjab: 16
+Gujarat: 15
+West Bengal: 14
+Karnataka: 12
+Tamil Nadu: 9
+Telangana: 8
+Jharkhand: 8
+Odisha: 7
+Uttarakhand: 5
+Kerala: 5
+Chandigarh: 3
+Assam: 3
+Himachal Pradesh: 2
+Chattisgarh: 1
+Jammu and Kashmir: 1
+Andhra Pradesh: 1
+Tripura: 1
+Manipur: 1
