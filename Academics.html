@@ -13,7 +13,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Puritan:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
 
-    <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
+    <link rel="shortcut icon" href="trial/BSP_white.png" type="image/x-icon">
 </head>
 <body>
     <nav class="navbar">
@@ -50,12 +50,11 @@
         <div class="main__container"></div>
         <div class="main__content">
             <h1>Academics</h1>
-            <p><span class="big-q">Q</span>  Which department are you majoring in?</p>
             <p class="responses">Total Respondents - 498</p>
             <img src="trial/Quirky_prof.jpg" alt="Acads Illustration" width="100%">
 
             <p><span class="big-q">Q</span>  What degree are you graduating with? </p>
-            <p class="responses">Total Respondents - 291</p>
+            <p class="responses">Total Respondents - 498</p>
             <div class="chart">
                 <canvas id="doughnut1"></canvas>
                 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.2/dist/chart.umd.min.js"></script>
@@ -64,7 +63,7 @@
             </div>
 
             <p><span class="big-q">Q</span>  If you are getting a UG degree, did you pursue and complete Minors or Honors? </p>
-            <p class="responses">Total Respondents<b style="font-size:x-large;"></b> - 231</p>
+            <p class="responses">Total Respondents<b style="font-size:x-large;"></b> - 431</p>
             <div class="chart">
                 <canvas id="doughnut2"></canvas>
                 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.2/dist/chart.umd.min.js"></script>
@@ -72,14 +71,14 @@
                 <script src="Charts/Acads2.js"></script>
             </div>
 
-            <p><span class="big-q">Q</span>  What is your CPI? </p>
-            <p class="responses">Total Respondents - 289</p>
+            <p><span class="big-q">Q</span>  What is your CGPA? </p>
+            <p class="responses">Total Respondents - 489</p>
             <div class="container">
-                <!-- Chart 1: What is your CPI?  -->
+                <!-- Chart 1: What is your CGPA?  -->
                 <div class="filters">
                     <button class="legend" data-dataset="0">Aerospace Engineering</button>
                     <button class="legend" data-dataset="1">Chemical Engineering</button>
-                    <button class="legend" data-dataset="2">Civil Engineering</button>
+                    <button class="legend" data-dataset="4">Civil Engineering</button>
                     <button class="legend" data-dataset="3">Computer Science & Engineering</button>
                     <button class="legend" data-dataset="4">Electrical Engineering</button>
                     <button class="legend" data-dataset="5">Mechanical Engineering</button>
@@ -90,51 +89,51 @@
                 <canvas id="chartContainer1"></canvas>
             </div>
 
-            <p><span class="big-q">Q</span>  How satisfied are you with your CPI? </p>
-            <p class="responses">Total Respondents - 291</p>
+            <p><span class="big-q">Q</span>  How satisfied are you with your CGPA? </p>
+            <p class="responses">Total Respondents - 491</p>
             <p class="responses">1 - Dissatisfied, <b style="font-size:x-large;"></b> 5 - Satisfied </p>
 
             <div class="container">
-                <!-- Chart 2: How satisfied are you with your CPI? -->
+                <!-- Chart 2: How satisfied are you with your CGPA? -->
                 <div class="filters">
-                    <button class="legend" data-dataset="0" style="background-color: #002744;">7&lt;CPI&lt;8</button>
-                    <button class="legend" data-dataset="1" style="background-color: #094e80;">8&lt;CPI&lt;9</button>
-                    <button class="legend" data-dataset="2" style="background-color: #4889b7;">CPI&lt;7</button>
-                    <button class="legend" data-dataset="3" style="background-color: #c3ccd5;">CPI&gt;9</button>
-                    <button class="legend" data-dataset="4" style="background-color: #1E4460;">CPI not choosen</button>
+                    <button class="legend" data-dataset="0" style="background-color: #002744;">7&lt;CGPA&lt;8</button>
+                    <button class="legend" data-dataset="1" style="background-color: #094e80;">8&lt;CGPA&lt;9</button>
+                    <button class="legend" data-dataset="2" style="background-color: #4889b7;">CGPA&lt;7</button>
+                    <button class="legend" data-dataset="3" style="background-color: #c3ccd5;">CGPA&gt;9</button>
+                    <button class="legend" data-dataset="4" style="background-color: #1E4460;">CGPA not choosen</button>
                     <button class="reset-button" data-dataset="5">Reset</button>
         
                 </div>
                 <canvas id="chartContainer2"></canvas>
             </div>
 
-            <p><span class="big-q">Q</span>  How important a role do you think one's CPI plays in internships/placements? </p>
-            <p class="responses">Total Respondents - 289</p>
+            <p><span class="big-q">Q</span>  How important a role do you think one's CGPA plays in internships/placements? </p>
+            <p class="responses">Total Respondents - 489</p>
             <p class="responses">1 - Least Important, <b style="font-size:x-large;"></b> 5 - Very Important </p>
             <div class="container">
-                <!-- Chart 3: How important a role do you think one’s CPI plays in internships/placements? -->
-                <!-- <h1>2. How important a role do you think one’s CPI plays in internships/placements?</h1> -->
+                <!-- Chart 3: How important a role do you think one’s CGPA plays in internships/placements? -->
+                <!-- <h1>2. How important a role do you think one’s CGPA plays in internships/placements?</h1> -->
                 <div class="filters">
-                    <button class="legend" data-dataset="0" style="background-color: #002744;">7&lt;CPI&lt;8</button>
-                    <button class="legend" data-dataset="1" style="background-color: #094e80;">8&lt;CPI&lt;9</button>
-                    <button class="legend" data-dataset="2" style="background-color: #4889b7;">CPI&lt;7</button>
-                    <button class="legend" data-dataset="3" style="background-color: #c3ccd5;">CPI&gt;9</button>
-                    <button class="legend" data-dataset="4" style="background-color: #1E4460;">CPI not choosen</button>
+                    <button class="legend" data-dataset="0" style="background-color: #002744;">7&lt;CGPA&lt;8</button>
+                    <button class="legend" data-dataset="1" style="background-color: #094e80;">8&lt;CGPA&lt;9</button>
+                    <button class="legend" data-dataset="2" style="background-color: #4889b7;">CGPA&lt;7</button>
+                    <button class="legend" data-dataset="3" style="background-color: #c3ccd5;">CGPA&gt;9</button>
+                    <button class="legend" data-dataset="4" style="background-color: #1E4460;">CGPA not choosen</button>
                     <button class="reset-button" data-dataset="5">Reset</button>
                 </div>
                 <canvas id="chartContainer3"></canvas>
             </div>
 
             <p><span class="big-q">Q</span>  Are you interested in pursuing core? </p>
-            <p class="responses">Total Respondents - 288</p>
+            <p class="responses">Total Respondents - 488</p>
             <div class="container">
                 <!-- Chart 4: Are you interested in pursuing core? -->
                 <div class="filters">
-                    <button class="legend" data-dataset="0" style="background-color: #002744;">7&lt;CPI&lt;8</button>
-                    <button class="legend" data-dataset="1" style="background-color: #094e80;">8&lt;CPI&lt;9</button>
-                    <button class="legend" data-dataset="2" style="background-color: #4889b7;">CPI&lt;7</button>
-                    <button class="legend" data-dataset="3" style="background-color: #c3ccd5;">CPI&gt;9</button>
-                    <button class="legend" data-dataset="4" style="background-color: #1E4460;">CPI not choosen</button>
+                    <button class="legend" data-dataset="0" style="background-color: #002744;">7&lt;CGPA&lt;8</button>
+                    <button class="legend" data-dataset="1" style="background-color: #094e80;">8&lt;CGPA&lt;9</button>
+                    <button class="legend" data-dataset="2" style="background-color: #4889b7;">CGPA&lt;7</button>
+                    <button class="legend" data-dataset="3" style="background-color: #c3ccd5;">CGPA&gt;9</button>
+                    <button class="legend" data-dataset="4" style="background-color: #1E4460;">CGPA not choosen</button>
                     <button class="reset-button" data-dataset="5">Reset</button>
                 </div>
                 <canvas id="chartContainer4"></canvas>
@@ -160,7 +159,7 @@
 
 
             <p><span class="big-q">Q</span>  How relevant is the course material for your discipline? </p>
-            <p class="responses">Total Respondents<b style="font-size:x-large;">*</b> - 287</p>
+            <p class="responses">Total Respondents<b style="font-size:x-large;">*</b> - 487</p>
             <div class="chart">
                 <canvas id="doughnut7"></canvas>
                 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.2/dist/chart.umd.min.js"></script>
@@ -169,7 +168,7 @@
             </div>
 
             <p><span class="big-q">Q</span>  Did you attend classes? </p>
-            <p class="responses">Total Respondents - 290</p>
+            <p class="responses">Total Respondents - 490</p>
             <div class="container">
                 <!-- Chart 6:Did you attend classes?  -->
                 <div class="filters">
@@ -186,7 +185,6 @@
                 <canvas id="chartContainer6"></canvas>
             </div>
         
-
             <p><span class="big-q">Q</span>  Do you think attending classes is important?</p>
             <p class="responses">Total Respondents - 290</p>
             <div class="chart">
@@ -197,7 +195,7 @@
             </div>
 
             <p><span class="big-q">Q</span>  Did you use any other platform besides material provided by professors for academic purposes? </p>
-            <p class="responses">Total Respondents<b style="font-size:x-large;">*</b> - 288</p>
+            <p class="responses">Total Respondents<b style="font-size:x-large;">*</b> - 488</p>
             <div class="chart">
                 <canvas id="doughnut10"></canvas>
                 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.2/dist/chart.umd.min.js"></script>
@@ -215,7 +213,7 @@
             </div>
 
             <p><span class="big-q">Q</span>  Did you go for a Semester exchange program? </p>
-            <p class="responses">Total Respondents - 289</p>
+            <p class="responses">Total Respondents - 489</p>
             <div class="chart">
                 <canvas id="doughnut12"></canvas>
                 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.2/dist/chart.umd.min.js"></script>
@@ -224,7 +222,7 @@
             </div>
 
             <p><span class="big-q">Q</span>  How was your final year different from other years academically?  </p>
-            <p class="responses">Total Respondents - 287</p>
+            <p class="responses">Total Respondents - 487</p>
             <div class="chart">
                 <canvas id="doughnut13"></canvas>
                 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.2/dist/chart.umd.min.js"></script>
@@ -233,17 +231,17 @@
             </div>
 
             <p><span class="big-q">Q</span>  Have you been able to find a balance between academic commitments and extracurricular activities?  </p>
-            <p class="responses" style="margin-top: 15px;">Total Respondents - 290</p>
+            <p class="responses" style="margin-top: 15px;">Total Respondents - 490</p>
             <p class="responses">1 - Not able to, <b style="font-size:x-large;"></b> 5 - Fully able to  </p>
             <div class="container">
                 <!-- Chart 7: Have you been able to find a balance between academic commitments and extracurricular activities? -->
                 
                 <div class="filters">
-                    <button class="legend" data-dataset="0" style="background-color: #002744;">7&lt;CPI&lt;8</button>
-                    <button class="legend" data-dataset="1" style="background-color: #094e80;">8&lt;CPI&lt;9</button>
-                    <button class="legend" data-dataset="2" style="background-color: #4889b7;">CPI&lt;7</button>
-                    <button class="legend" data-dataset="3" style="background-color: #c3ccd5;">CPI&gt;9</button>
-                    <button class="legend" data-dataset="4" style="background-color: #1E4460;">CPI not choosen</button>
+                    <button class="legend" data-dataset="0" style="background-color: #002744;">7&lt;CGPA&lt;8</button>
+                    <button class="legend" data-dataset="1" style="background-color: #094e80;">8&lt;CGPA&lt;9</button>
+                    <button class="legend" data-dataset="2" style="background-color: #4889b7;">CGPA&lt;7</button>
+                    <button class="legend" data-dataset="3" style="background-color: #c3ccd5;">CGPA&gt;9</button>
+                    <button class="legend" data-dataset="4" style="background-color: #1E4460;">CGPA not choosen</button>
                     <button class="reset-button" data-dataset="5">Reset</button>
                 </div>
                 <canvas id="chartContainer7"></canvas>
